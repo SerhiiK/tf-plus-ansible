@@ -8,7 +8,7 @@ In this example Terraform using for creating infrastructure and Ansible for soft
 - AWS account
 
 ## Getting started
-1. Download repository: `https://github.com/SerhiiK/tf-plus-ansible.git`
+1. Download repository: `git clone https://github.com/SerhiiK/tf-plus-ansible.git`
 2. Create ssh key: `ssh-keygen -f mykey` 
 3. Create user in IAM AWS. Remember acces key and secret key.
 4. To write keys in file *terraform.tfvars*
